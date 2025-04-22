@@ -24,6 +24,7 @@ Welcome to my GitHub profile! I'm a passionate programmer who's always on a miss
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
 
 #### 🧩 Backend & Tools
 ![Prisma](https://img.shields.io/badge/-Prisma-2D3748?style=flat&logo=prisma&logoColor=white)
@@ -48,7 +49,7 @@ Welcome to my GitHub profile! I'm a passionate programmer who's always on a miss
 ### 🛠️ Projects In Progress
 
 - 🌐 NexCircle portfolio website
-- ⚙️ MQTT + Arduino/Raspberry Pi communication (for fun & learning)
+- ⚙️ MQTT + Arduino/Raspberry Pi communication (for university)
 
 ---
 
